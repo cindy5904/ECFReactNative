@@ -164,11 +164,5 @@ const pokemonSlice = createSlice({
     },
           
         })
-        
-        
-        
-   
- 
-
 export const { setSelectedPokemon, addPokemonToPokedex, setFilteredPokemons, clearPokedex, setSelectedPokemonImageUrl} = pokemonSlice.actions;
 export default pokemonSlice.reducer;

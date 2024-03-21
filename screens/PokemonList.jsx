@@ -9,7 +9,6 @@ import {
   TouchableOpacity,
   View,
   Image,
-  TextInput,
 } from 'react-native';
 import React, {useEffect, useState} from 'react';
 import LinearGradient from 'react-native-linear-gradient';

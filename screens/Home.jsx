@@ -3,24 +3,11 @@ import React, { useEffect, useState } from 'react';
 import title from '../asset/Monpokedex.png'
 import PokemonList from './PokemonList';
 import { useNavigation } from '@react-navigation/native';
-import Loader from '../component/Loader';
-
 export default function Home() {
     const navigation = useNavigation();
-    const [isLoading, setIsLoading] = useState(true);
-    useEffect(() => {
-      const timeout = setTimeout(() => {
-        setIsLoading(false);
-      }, 8000); 
-  
-      return () => clearTimeout(timeout);
-    }, []);
   
   return (
-    <View style={{ flex: 1 }}>
-    {isLoading ? (
-      <Loader />
-    ) : ( 
+    <View style={{ flex: 1 }}> 
       <ScrollView style={styles.container}>
         <View style={styles.imgContainer}>
           <View style={styles.imgWrapper}>
@@ -29,7 +16,7 @@ export default function Home() {
         </View>
         <PokemonList navigation={navigation} />
       </ScrollView>
-    )}
+    
   </View>
   )
 }
