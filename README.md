@@ -32,6 +32,18 @@ Bienvenue dans l'application Pokémon ! Cette application a été développée e
 
 ## La Maquette
 
+Avant de commencer le développement de l'application, une maquette a été créée sur Figma pour visualiser et planifier l'interface utilisateur. La maquette a servi de référence tout au long du processus de développement pour garantir la cohérence du design.
+
+<img src="../ECFReactNative/Figma/HomePage.png" style='width: 100px'/>
+<img src="../ECFReactNative/Figma/DetailPokemon.png" style='width: 100px'/>
+<img src="../ECFReactNative/Figma/Pokedex.png" style='width: 100px'/>
+
+Les liens pdf sont disponible juste ici =>
+
+[Homepage](../ECFReactNative/Figma/HomePage.pdf)
+
+
+
 
 
 
