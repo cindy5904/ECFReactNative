@@ -98,12 +98,10 @@ Pour supprimer un Pokémon de ma collection, je peux appuyer sur un bouton
 Après avoir consulté ma collection de Pokémon, je peux facilement revenir à l'accueil en appuyant sur un bouton dédié. Cela me ramène à la page principale de l'application  
 Lorsque je retourne à l'accueil après avoir supprimé un Pokémon de ma collection, je remarque que le Pokémon supprimé n'est plus affiché dans la liste des Pokémon. 
 
-```html
-<p align="center">==
-<img src="../ECFReactNative/screensApplication/collection.png" style='width:150px' />
+
+<img src="../ECFReactNative/screensApplication/collection.png" style='width:150px' />  
 <img src="../ECFReactNative/screensApplication/clear.png" style='width:150px' />
-</p>
-```
+
 
 ## Liens utiles
 
