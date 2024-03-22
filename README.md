@@ -34,7 +34,8 @@ Bienvenue dans l'application Pokémon ! Cette application a été développée e
 
 Avant de commencer le développement de l'application, une maquette a été créée sur Figma pour visualiser et planifier l'interface utilisateur. La maquette a servi de référence tout au long du processus de développement pour garantir la cohérence du design.
 
-![homepage](./Figma/HomePage.png){: width="150"}
+<img src="./Figma/HomePage.png" alt="homepage" width="150">
+
 ![detail](.Figma/DetailPokemon.png)
 ![pokedex](./Figma/Pokede1.png)
 ![pokedex2](.Figma/Pokedex2.png)
