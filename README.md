@@ -26,7 +26,7 @@ Bienvenue dans l'application Pokémon ! Cette application a été développée e
 
 - `src/` : Ce répertoire contient tout le code source de l'application.
   - `components/` : Composants réutilisables utilisés pour construire l'interface utilisateur.
-  - `redux/` : Contient les actions, les reducers et les slices Redux pour gérer l'état de l'application.
+  - `store/` : Contient les actions, les reducers et les slices Redux pour gérer l'état de l'application.
   - `screens/` : Écrans de l'application, organisés par fonctionnalité.
 - `App.js` : Point d'entrée de l'application.
 
@@ -34,10 +34,11 @@ Bienvenue dans l'application Pokémon ! Cette application a été développée e
 
 Avant de commencer le développement de l'application, une maquette a été créée sur Figma pour visualiser et planifier l'interface utilisateur. La maquette a servi de référence tout au long du processus de développement pour garantir la cohérence du design.
 
-<img src="../ECFReactNative/Figma/HomePage.png" style='width: 100px'/>
-<img src="../ECFReactNative/Figma/DetailPokemon.png" style='width: 100px'/>
-<img src="../ECFReactNative/Figma/Pokede1.png" style='width: 100px'/>
-<img src="../ECFReactNative/Figma/Pokedex2.png" style='width: 100px'/>
+![homepage](../ECFReactNative/Figma/HomePage.png)
+![detail](../ECFReactNative/Figma/DetailPokemon.png)
+![pokedex](../ECFReactNative/Figma/Pokede1.png)
+![pokedex2](../ECFReactNative/Figma/Pokedex2.png)
+
 
 Les liens pdf sont disponible juste ici =>
 
@@ -49,16 +50,15 @@ Les liens pdf sont disponible juste ici =>
 
 1. Afficher la liste des pokémons
 
-<p align="center">
-  <img src="../ECFReactNative/screensApplication/liste.png" width="150" />
-</p>
+![liste](../ECFReactNative/screensApplication/liste.png)
+
 
 2. Filtrer par nom 
 
-<p align="center">
-  <img src="../ECFReactNative/screensApplication/filtre.png" width="150" />
-    <img src="../ECFReactNative/screensApplication/filtre2.png" width="150" />
-</p>
+
+![filtre](../ECFReactNative/screensApplication/filtre.png)
+![filtre2](../ECFReactNative/screensApplication/filtre2.png)
+
 
 3. Afficher les details d'un pokémon
 
@@ -82,11 +82,11 @@ L'application permet d'afficher les détails d'un Pokémon sélectionné. Les d�
 J'ai également ajouté un bouton accueil pour faciliter la navigation.  
 On peut également ajouté un pokemon au pokedex via le bouton 'Add to pokedex'
 
-<p align="center">
-<img src="../ECFReactNative/screensApplication/details1.png" style='width:150px' />
-<img src="../ECFReactNative/screensApplication/details.png" style='width:150px' />
-<img src="../ECFReactNative/screensApplication/details2.png" style='width:150px' />
-</p>
+![detail](../ECFReactNative/screensApplication/details1.png)
+
+![detail1](../ECFReactNative/screensApplication/details.png)
+
+![detail2](../ECFReactNative/screensApplication/details2.png)
 
 3.  Gestion de la collection
 
@@ -99,9 +99,9 @@ Après avoir consulté ma collection de Pokémon, je peux facilement revenir à 
 Lorsque je retourne à l'accueil après avoir supprimé un Pokémon de ma collection, je remarque que le Pokémon supprimé n'est plus affiché dans la liste des Pokémon. 
 
 
-<img src="../ECFReactNative/screensApplication/collection.png" style='width:150px' />  
-<img src="../ECFReactNative/screensApplication/clear.png" style='width:150px' />
+![pokedex](../ECFReactNative/screensApplication/collection.png)
 
+![clear](../ECFReactNative/screensApplication/clear.png)
 
 ## Liens utiles
 
