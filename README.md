@@ -34,11 +34,14 @@ Bienvenue dans l'application Pokémon ! Cette application a été développée e
 
 Avant de commencer le développement de l'application, une maquette a été créée sur Figma pour visualiser et planifier l'interface utilisateur. La maquette a servi de référence tout au long du processus de développement pour garantir la cohérence du design.
 
-<img src="./Figma/HomePage.png" alt="homepage" width="150">
+<img src="./Figma/HomePage.png" alt="homepage" width="200">
 
-![detail](.Figma/DetailPokemon.png)
-![pokedex](./Figma/Pokede1.png)
-![pokedex2](.Figma/Pokedex2.png)
+<img src="./Figma/DetailPokemon.png" alt="detail" width="200">
+
+<img src="./Figma/Pokede1.png" alt="pokedex" width="200">
+
+<img src="./Figma/Pokedex2.png" alt="pokedex2" width="200">
+
 
 
 Les liens pdf sont disponible juste ici =>
@@ -51,14 +54,14 @@ Les liens pdf sont disponible juste ici =>
 
 1. Afficher la liste des pokémons
 
-![liste](./screensApplication/liste.png){: width="150"}
+<img src="./screensApplication/liste.png" alt="liste" width="150">
 
 
 2. Filtrer par nom 
 
+<img src="./screensApplication/filtre.png" alt="filtre" width="150">
+<img src="./screensApplication/filtre2.png" alt="filtre2" width="150">
 
-![filtre](./screensApplication/filtre.png)
-![filtre2](./screensApplication/filtre2.png)
 
 
 3. Afficher les details d'un pokémon
@@ -83,11 +86,10 @@ L'application permet d'afficher les détails d'un Pokémon sélectionné. Les d�
 J'ai également ajouté un bouton accueil pour faciliter la navigation.  
 On peut également ajouté un pokemon au pokedex via le bouton 'Add to pokedex'
 
-![detail](./screensApplication/details1.png)
+<img src="./screensApplication/details1.png" alt="detail" width="150">
+<img src="./screensApplication/details.png" alt="detail1" width="150">
+<img src="./screensApplication/details2.png" alt="detail2" width="150">
 
-![detail1](./screensApplication/details.png)
-
-![detail2](./screensApplication/details2.png)
 
 3.  Gestion de la collection
 
@@ -100,9 +102,9 @@ Après avoir consulté ma collection de Pokémon, je peux facilement revenir à 
 Lorsque je retourne à l'accueil après avoir supprimé un Pokémon de ma collection, je remarque que le Pokémon supprimé n'est plus affiché dans la liste des Pokémon. 
 
 
-![pokedex](./screensApplication/collection.png)
+<img src="./screensApplication/collection.png" alt="pokedex" width="150">
+<img src="./screensApplication/clear.png" alt="clear" width="150">
 
-![clear](./screensApplication/clear.png)
 
 ## Liens utiles
 
