@@ -75,11 +75,9 @@ L'application permet d'afficher les détails d'un Pokémon sélectionné. Les d�
 - Capacités du Pokémon
 - Statistiques du Pokémon
 
-**Étant donné que l'API PokeAPI ne fournit pas les images pour les types de Pokémon, j'ai pris l'initiative de personnaliser cette fonctionnalité.** 
-
-**Pour ce faire, j'ai créé un fichier JavaScript (asset => typeImage.js) où j'ai stocké les images correspondant à chaque type de Pokémon.**
-
-**Lorsque j'affiche les détails d'un Pokémon, je vérifie d'abord son type. Ensuite, j'utilise une condition pour sélectionner l'image appropriée à partir du fichier JavaScript que j'ai créé. Cela permet à chaque Pokémon d'afficher une image représentant son type, offrant ainsi une expérience visuelle plus riche et immersive.**
+<span style="color:#6e395b;">Étant donné que l'API PokeAPI ne fournit pas les images pour les types de Pokémon, j'ai pris l'initiative de personnaliser cette fonctionnalité.
+Pour ce faire, j'ai créé un fichier JavaScript (asset => typeImage.js) où j'ai stocké les images correspondant à chaque type de Pokémon.
+Lorsque j'affiche les détails d'un Pokémon, je vérifie d'abord son type. Ensuite, j'utilise une condition pour sélectionner l'image appropriée à partir du fichier JavaScript que j'ai créé. Cela permet à chaque Pokémon d'afficher une image représentant son type, offrant ainsi une expérience visuelle plus riche et immersive.</span>
 
   Bouton Retour à l'accueil
 
