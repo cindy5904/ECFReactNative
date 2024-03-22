@@ -34,10 +34,10 @@ Bienvenue dans l'application Pokémon ! Cette application a été développée e
 
 Avant de commencer le développement de l'application, une maquette a été créée sur Figma pour visualiser et planifier l'interface utilisateur. La maquette a servi de référence tout au long du processus de développement pour garantir la cohérence du design.
 
-![homepage](../ECFReactNative/Figma/HomePage.png)
-![detail](../ECFReactNative/Figma/DetailPokemon.png)
-![pokedex](../ECFReactNative/Figma/Pokede1.png)
-![pokedex2](../ECFReactNative/Figma/Pokedex2.png)
+![homepage](./Figma/HomePage.png){: width="150"}
+![detail](.Figma/DetailPokemon.png)
+![pokedex](./Figma/Pokede1.png)
+![pokedex2](.Figma/Pokedex2.png)
 
 
 Les liens pdf sont disponible juste ici =>
@@ -50,7 +50,7 @@ Les liens pdf sont disponible juste ici =>
 
 1. Afficher la liste des pokémons
 
-![liste](./screensApplication/liste.png)
+![liste](./screensApplication/liste.png){: width="150"}
 
 
 2. Filtrer par nom 
