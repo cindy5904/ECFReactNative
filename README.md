@@ -55,7 +55,10 @@ Les liens pdf sont disponible juste ici =>
 1. Afficher la liste des pokémons
 
 <img src="./screensApplication/liste.png" alt="liste" width="150">
+ 
+ 1. a. Pagination
 
+ <img src="./screensApplication/pagination.png" alt="liste" width="150">
 
 2. Filtrer par nom 
 
