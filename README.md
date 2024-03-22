@@ -42,22 +42,22 @@ Avant de commencer le développement de l'application, une maquette a été cré
 
 Les liens pdf sont disponible juste ici =>
 
-[Homepage](../ECFReactNative/Figma/HomePage.pdf)
-[DetailPokemon](../ECFReactNative/Figma/DetailPokemon.pdf)
-[Collection](../ECFReactNative/Figma/Pokedex.pdf)
+[Homepage](./Figma/HomePage.pdf)
+[DetailPokemon](./Figma/DetailPokemon.pdf)
+[Collection](./Figma/Pokedex.pdf)
 
 ## Fonctionnalités
 
 1. Afficher la liste des pokémons
 
-![liste](../ECFReactNative/screensApplication/liste.png)
+![liste](./screensApplication/liste.png)
 
 
 2. Filtrer par nom 
 
 
-![filtre](../ECFReactNative/screensApplication/filtre.png)
-![filtre2](../ECFReactNative/screensApplication/filtre2.png)
+![filtre](./screensApplication/filtre.png)
+![filtre2](./screensApplication/filtre2.png)
 
 
 3. Afficher les details d'un pokémon
@@ -82,11 +82,11 @@ L'application permet d'afficher les détails d'un Pokémon sélectionné. Les d�
 J'ai également ajouté un bouton accueil pour faciliter la navigation.  
 On peut également ajouté un pokemon au pokedex via le bouton 'Add to pokedex'
 
-![detail](../ECFReactNative/screensApplication/details1.png)
+![detail](./screensApplication/details1.png)
 
-![detail1](../ECFReactNative/screensApplication/details.png)
+![detail1](./screensApplication/details.png)
 
-![detail2](../ECFReactNative/screensApplication/details2.png)
+![detail2](./screensApplication/details2.png)
 
 3.  Gestion de la collection
 
@@ -99,9 +99,9 @@ Après avoir consulté ma collection de Pokémon, je peux facilement revenir à 
 Lorsque je retourne à l'accueil après avoir supprimé un Pokémon de ma collection, je remarque que le Pokémon supprimé n'est plus affiché dans la liste des Pokémon. 
 
 
-![pokedex](../ECFReactNative/screensApplication/collection.png)
+![pokedex](./screensApplication/collection.png)
 
-![clear](../ECFReactNative/screensApplication/clear.png)
+![clear](./screensApplication/clear.png)
 
 ## Liens utiles
 
